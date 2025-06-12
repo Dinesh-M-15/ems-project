@@ -16,4 +16,4 @@ A full stack web application for managing employee details using *React.js, **Sp
 
 ## 🛠 How to Run (Locally)
 
-### Frontend
+### Frontend: [Live Site](https://gleeful-semolina-875754.netlify.app)
